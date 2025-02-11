@@ -6,20 +6,6 @@ It is an clone website of BookMyShow that developed just using HTML, CSS and Jav
 
 -> **HTML** | **CSS** | **JavaScript** |
 
-# How to run Locally 🖥️
-
-1. Before the following steps make sure you have [git](https://git-scm.com/downloads) installed on your system.
-
-2. Clone the GitHub project in your local directory with command `git clone https://github.com/vu3tpz/BookMyShow-Clone` or you can just download the code and unzip it.
-
-
-```
-git clone https://github.com/vu3tpz/BookMyShow-Clone
-```
-
-
-3. Open index.html file in any Browser.
-
 # Screen Layout 🎟️
 
 ![Screenshot (41)](https://user-images.githubusercontent.com/101320198/192150986-a88e788a-135c-4660-b047-7e699bdbf7b6.png)
